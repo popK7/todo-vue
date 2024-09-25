@@ -24,5 +24,6 @@ export default {
 
 .id{
   display: none;
+  justify-content: center;
 }
 </style>
